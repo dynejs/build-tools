@@ -3,7 +3,7 @@ It's a simple webpack config wrapper with predefined loaders and configuration t
 
 ## Usage
 ```js
-const builder = require('@dyne/build-tools')
+const builder = require('@dynejs/build-tools')
 
 module.exports = builder({
     'my-awesome-file': 'src/index.js'
